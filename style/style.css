@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(/imagens/Site_Café\ \(1\).png);
+    font-family: "Poppins", sans-serif;
+}
+
+.cabeçalho{
+    width: 100%;
+    height: 15vh;
+    background-color: #E4A02E;
+}
+
+.frase{
+    width: 100%;
+    height: 85vh;
+    align-items: center;
+    display: flex;
+}
+
+.texto{
+   width: 40%;
+   height: 15vh;
+   margin-left: 120px;
+}
+
+.frase_01{
+    color: rgb(255, 255, 255);
+    font-style: inherit;
+    width: 100%;
+    height: 7vh;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+span{
+    color: #E4A02E;
+}
+
+.frase_02{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
